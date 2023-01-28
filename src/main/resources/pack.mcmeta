@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description": "Adds lockable doors with specific keys",
+        "pack_format": 6,
+        "_comment": ""
+    }
+}
